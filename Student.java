@@ -3,6 +3,8 @@ class Student {
 	String firstName;
 	String lastName;
 
+	List<Integer> labPoints=new ArrayList<Integer>();
+	
 	//TODO constructor
 
 	//TODO seters & getters
